@@ -45,5 +45,8 @@ qt5-styleplugins
 bash-completion
 xarchiver
 
-
-
+firefox-i18n-pt-br
+aspell-pt
+libreoffice-fresh-pt-BR
+kde-l10n-pt_br
+qt5-translations
