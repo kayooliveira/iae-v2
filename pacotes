@@ -1,7 +1,6 @@
 audacious
 catfish
 dosfstools
-engrampa
 f2fs-tools
 firefox
 galculator
@@ -39,7 +38,8 @@ gnome-keyring
 pytho-pip
 qt5ct
 qt5-styleplugins
-
+bash-completion
+xarchiver
 
 
 
