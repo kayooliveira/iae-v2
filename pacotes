@@ -19,7 +19,7 @@ lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 networkmanager
-networ-kmanager-applet
+network-manager-applet
 ntfs-3g
 p7zip
 pavucontrol
@@ -39,7 +39,7 @@ grub
 efibootmgr
 gamin
 gnome-keyring
-pytho-pip
+python-pip
 qt5ct
 qt5-styleplugins
 bash-completion
