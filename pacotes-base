@@ -47,3 +47,7 @@ xfce4
 xfce4-goodies
 xorg-server
 xorg-xinit
+
+linux-headers
+evince
+gnome-disk-utily
