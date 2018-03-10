@@ -25,3 +25,5 @@ virtualbox
 sqlitebrowser
 wireshark-gtk
 firefox-adblock-plus
+redshift
+python-xdg
