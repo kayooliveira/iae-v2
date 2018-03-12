@@ -1,5 +1,4 @@
 archlinux-keyring
-base-devel
 bash-completion
 dosfstools
 efibootmgr
@@ -35,3 +34,4 @@ xorg-xinit
 linux-headers
 gnome-disk-utility
 reflector
+xf86-input-synaptics

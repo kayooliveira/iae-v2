@@ -56,6 +56,8 @@ systemctl enable NetworkManager
 systemctl enable lightdm
 systemctl enable tlp
 
+cat 20-intel.conf > /etc/X11/xorg.conf.d/20-intel.conf
+
 exit
 umount -a
 reboot
