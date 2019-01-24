@@ -13,6 +13,7 @@ read "Entre com a partição que será a /home" hm
 # Formatação das partições
 mkfs.vfat -F32 /dev/$bt
 mkfs.ext4 /dev/$rt
+mkfs.ext4 /dev/$hm
 mkswap /dev/$sp
 
 # Montagem das partições
